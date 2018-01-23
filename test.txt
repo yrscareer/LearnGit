@@ -1,0 +1,3 @@
+learn git
+git is a great system to manage different banben
+git is free
